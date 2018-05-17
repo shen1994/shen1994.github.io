@@ -28,7 +28,9 @@ navbar-links:
   #Proposals : "pages/proposals"
   Slides:
     - python learning : "https://shen1994.github.io/python"
-    - c/c++ learning : "https://shen1994.github.io/c/c++"
+    - c/c++ learning : "https://shen1994.github.io/c"
+    - machine learning : "https://shen1994.github.io/ml"
+    - deep learning : "https://shen1994.github.io/dl"
   Profile: "http://github.com/shen1994"
 #  Links:
 #    - Neural Network Basics: "https://github.com/ChatAI/_nn_"
