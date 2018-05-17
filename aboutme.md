@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About me
-subtitle: Timeline of Events
+title: 关于我
+subtitle: 个人简历
 ---
 
-I am Suriyadeepan Ramamoorthy, from Puducherry, India. An Independent Researcher, interested in 
+我是来自南京信息工程大学, 计算机与软件学院的理学硕士,对如下感兴趣:  
 
 - Artificial Intelligence
 - Natural Language Processing
