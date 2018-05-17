@@ -4,26 +4,30 @@ title: 关于我
 subtitle: 个人简历
 ---
 
-我是来自南京信息工程大学, 计算机与软件学院的理学硕士,对如下感兴趣:  
+我是来自南京信息工程大学, 计算机与软件学院的理学硕士(推免生),求职意向:算法工程师/深度学习,对如下熟悉:  
 
-- Artificial Intelligence
-- Natural Language Processing
-- Cognitive Architectures
-- Transhumanism
-- Generative Art through Interactive Evolution
-- Complex Systems
+- 深度学习经典框架并且会调试,如CNN/alexnet/VGG16/resnet-50/word2vec/lstm/seq2seq
+- 机器学习完整体系,如逻辑回归/PCA降维/决策树/SVM分类/常用聚类算法
+- 单片机开发技术，如51系列/STM32系列/MSP430系列/K60系列
+- C/S架构的相关开发,如QT/MFC开发的桌面客户端系统
+- B/S架构的相关开发,如django网站的搭建和发布
 
-[Education, Skills, Publications](http://suriya.strikingly.com/)
+[github](https://github.com/shen1994)
 
 
-### 2017
+### 获奖情况
 
-- (*incomplete*) Generative Dialog Systems based on seq2seq, memory networks and reinforcement.
+- [2016.08 全国恩智浦智能车竞赛 一等奖](#)
 
-- (*incomplete*) [Enhancing Sequence to Sequence architecture](https://github.com/suriyadeepan/augmented_seq2seq)
+- [2015.08 全国物联网设计竞赛第二届 一等奖](#)
 
-- [Language Modeling or RNN Hallucinations with tensorflow](https://github.com/suriyadeepan/language-modeling)
+- [2014.08 全国物联网设计竞赛第一届 特等奖](#)
 
+- [2014.07 全国大学生电子设计竞赛 二等奖](#)
+
+- [2013-2014 国家奖学金](#)
+
+- [2013-2014 江苏省三好学生](#)
 
 ### 2016
 
