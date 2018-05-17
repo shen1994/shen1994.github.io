@@ -28,8 +28,8 @@ navbar-links:
   #Proposals : "pages/proposals"
   Slides:
     - Mesh Network : "http://pymeshnet.gitlab.io/slides/bangpypermeet/software/"
-    - Python 3 : "https://suriyadeepan.github.io/python3"
-    - Machine Learning (4ccon) : "https://suriyadeepan.github.io/4ccon"
+    - Python 3 : "https://shen1994.github.io/python3"
+    - Machine Learning (4ccon) : "https://shen1994.github.io/4ccon"
     - Neural Question Answering : "http://slides.com/suriyadeepanr/neuralqa"
     - Capsule Network : "http://slides.com/suriyadeepanr/capsulenet"
   Profile: "http://github.com/shen1994"
@@ -49,7 +49,7 @@ avatar: "/img/avatar-icon.png"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: shen1994
-  email: "sxf_0319@163.com.com"
+  email: "sxf_0319@163.com"
   facebook: #  # eg. daattali
   github: shen1994    # eg. daattali
   twitter: #   # eg. daattali
