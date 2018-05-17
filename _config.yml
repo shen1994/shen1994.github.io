@@ -27,11 +27,8 @@ navbar-links:
   About Me: "aboutme"
   #Proposals : "pages/proposals"
   Slides:
-    - Mesh Network : "http://pymeshnet.gitlab.io/slides/bangpypermeet/software/"
-    - Python 3 : "https://shen1994.github.io/python3"
-    - Machine Learning (4ccon) : "https://shen1994.github.io/4ccon"
-    - Neural Question Answering : "http://slides.com/suriyadeepanr/neuralqa"
-    - Capsule Network : "http://slides.com/suriyadeepanr/capsulenet"
+    - python learning : "https://shen1994.github.io/python"
+    - c/c++ learning : "https://shen1994.github.io/c/c++"
   Profile: "http://github.com/shen1994"
 #  Links:
 #    - Neural Network Basics: "https://github.com/ChatAI/_nn_"
