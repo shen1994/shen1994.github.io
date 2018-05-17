@@ -8,7 +8,7 @@ subtitle: 个人简历
 
 - 深度学习经典框架并且会调试,如CNN/VGG16/word2vec/seq2seq
 - 机器学习完整体系,如逻辑回归/PCA降维/决策树/SVM分类/常用聚类算法
-- 单片机开发技术，如51系列/STM32系列/MSP430系列/K60系列
+- 单片机开发技术,如51系列/STM32系列/MSP430系列/K60系列
 - C/S架构的相关开发,如QT/MFC开发的桌面客户端系统
 - B/S架构的相关开发,如django网站的搭建和发布
 
@@ -24,33 +24,36 @@ subtitle: 个人简历
 - [2013-2014 国家奖学金](#)
 - [2013-2014 江苏省三好学生](#)
 
-### 2016
+### 项目经历
 
+**2012.06-至今 南京信息工程大学（设计展示） 竞赛&设计**
+- [制作摄像头组竞速智能车,多种传感器协同控制,速度最高可达2.8m/s](https://github.com/shen1994/SmartCar)
+- [制作金属检测仪,作品可在在短时间内高精度定位到金属环中心](#)
+- [制作基于WiFI和蓝牙的智能插座和输液室智能服务系统](#)
+- [制作四轴无人机,熟悉传感器融合技术及控制技术](#)
 
-- [seq2seq Wrapper and datasets repository](https://github.com/suriyadeepan/practical_seq2seq)
+**2017.10-2018.01 焦点科技股份有限公司（实习） BI大数据部门**
+- [用python写爬虫,从百度图片上批量下载图片制作tfrecord数据集](#)
+- [用django写人工智能开放平台框架,给图像相关的深度学习算法提供接口](#)
+- [用tensorflow写深度学习框架,调试参数和观察曲线,图像检索项目精度达80%](#)
+- [制作AI音箱产品,同时也为AI音箱产品写服务](#)
 
-- [Generative Dialog Systems with Sequence to Sequence Learning](https://github.com/suriyadeepan/easy_seq2seq)
+### 教育背景
 
-- [A Radio and Network Planning Tool for Community Networks](http://www.foss4g-asia.org/2017/a-radio-and-network-planning-tool-for-community-networks/), [source code](https://gitlab.com/pymeshnet/FreeRF)
+**2012.09-2016.06 南京信息工程大学 物联网工程（本科）**
+- 课程:高等数学/线性代数/概率论/模拟电路技术基础/数字电路技术基础
 
-- [Social Community Network](http://suriyadeepan.github.io/pages/proposals/socialcommnet/)
+**2016.09-至今 南京信息工程大学 计算机科学与技术（硕士）**
+- 课程:人工智能/算法设计/数字图像处理/信息技术/高级计算机处理技术
 
-- Mesh Network : [Community WiFi Initiative](https://pymeshnet.gitlab.io/), Practical Guide ([slides](https://pymeshnet.gitlab.io/slides/bangpypermeet/software/index.html))
+### 证书
+- [CET-4](#)
+- [CET-6](#)
+- [江苏省计算机二级-C语言](#)
+- [全国计算机二级-C语言](#)
+- [全国计算机三级-网络技术](#)
 
-- [DS-MMAC: Dynamic Schedule based MAC for Mobile Wireless Sensor Network](http://dl.acm.org/citation.cfm?id=2851999)
-
-
-### 2015
-
-
-**Mobile Wireless Sensor Networks**
-
-- [High bandwidth data streaming in sensor network with mobile nodes](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7432980&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7432980)
-
-- [A fast exploration technique in WSN for partition recovery using mobile nodes](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7084923)
-
-
-### 2014
-
+### 学术论文
 
 - [Partition Discovery and Connectivity Restoration in WSN using Mobile Relays](http://dl.acm.org/citation.cfm?id=2684487)
+
