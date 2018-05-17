@@ -60,5 +60,7 @@ subtitle: 个人简历
 
 ### 学术论文
 
-- [Partition Discovery and Connectivity Restoration in WSN using Mobile Relays](http://dl.acm.org/citation.cfm?id=2684487)
+- [SCI:Building and Climbing based Visual Navagation Framework for Self-Driving Cars](http://link.springer.com/10.1007/s11036-017-0976-9)
+- [SCI:Infusion Auxiliary Service System based on ZigBee Wireless Network](https://doi.org/10.1109/ACCESS.2018.2809676)
+- [ICCCS2018:Fast Multi-Query Image Retrieval of Small Category Gallery using VGG16](#)
 
