@@ -21,12 +21,12 @@ subtitle: 个人简历
 
 ### 获奖情况
 
-- [2016.08 全国恩智浦智能车竞赛 一等奖](#)
+- [2016.08 全国恩智浦智能车竞赛 一等奖](https://github.com/shen1994/README/raw/master/person/1.jpg)
 - [2015.08 全国物联网设计竞赛第二届 一等奖](https://github.com/shen1994/README/raw/master/person/2.jpg)
 - [2014.08 全国物联网设计竞赛第一届 特等奖](https://github.com/shen1994/README/raw/master/person/3.jpg)
 - [2014.07 全国大学生电子设计竞赛 二等奖](https://github.com/shen1994/README/raw/master/person/4.jpg)
-- [2013-2014 国家奖学金](#)
-- [2013-2014 江苏省三好学生](#)
+- [2013-2014 国家奖学金](https://github.com/shen1994/README/raw/master/person/5.jpg)
+- [2013-2014 江苏省三好学生](https://github.com/shen1994/README/raw/master/person/6.jpg)
 
 ### 项目经历
 
