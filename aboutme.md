@@ -37,9 +37,9 @@ subtitle: 个人简历
 - [制作四轴无人机,熟悉传感器融合技术及控制技术](#)
 
 **2017.10-2018.01 焦点科技股份有限公司(实习) BI大数据部门**
-- [用python写爬虫,从百度图片上批量下载图片制作tfrecord数据集](#)
-- [用django写人工智能开放平台框架,给图像相关的深度学习算法提供接口](#)
-- [用tensorflow写深度学习框架,调试参数和观察曲线,图像检索项目精度达80%](#)
+- [用python写爬虫,从百度图片上批量下载图片制作tfrecord数据集](https://github.com/shen1994/BaiduSpider)
+- [用django写人工智能开放平台框架,给图像相关的深度学习算法提供接口](https://github.com/shen1994/DeepZero)
+- [用tensorflow写深度学习框架,调试参数和观察曲线,图像检索项目精度达80%](https://github.com/shen1994/ImageRetrieval_VGG16)
 - [制作AI音箱产品,同时也为AI音箱产品写服务](#)
 
 ### 教育背景
