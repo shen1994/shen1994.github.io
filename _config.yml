@@ -23,20 +23,13 @@ description: Personal Blog!!!
 
 # List of links in the navigation bar
 navbar-links:
-  #Walden: "pages/walden"
-  About Me: "aboutme"
-  #Proposals : "pages/proposals"
-  Slides:
+  关于我: "aboutme"
+  PPT:
     - python learning : "https://shen1994.github.io/python"
     - c/c++ learning : "https://shen1994.github.io/c"
     - machine learning : "https://shen1994.github.io/ml"
     - deep learning : "https://shen1994.github.io/dl"
-  Profile: "http://github.com/shen1994"
-#  Links:
-#    - Neural Network Basics: "https://github.com/ChatAI/_nn_"
-#    - Recurrent Neural Network: "https://github.com/ChatAI/_rnn_"
-#    - ML Coursera Excercises: "https://github.com/ChatAI/CourseraExercises"
-#    - Theano: "https://github.com/suriyadeepan/theano"
+  项目库: "http://github.com/shen1994"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -82,7 +75,6 @@ google_analytics: "UA-78656027-1"
 # Output options (more information on Jekyll's site)
 timezone: "Asia/Kolkata"
 markdown: kramdown
-#markdown: redcarpet
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
