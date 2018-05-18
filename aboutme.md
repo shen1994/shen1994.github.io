@@ -52,11 +52,11 @@ subtitle: 个人简历
 
 ### 证书
 
-- [CET-4](#)
-- [CET-6](#)
-- [江苏省计算机二级-C语言](#)
-- [全国计算机二级-C语言](#)
-- [全国计算机三级-网络技术](#)
+- [CET-4](https://github.com/shen1994/README/raw/master/person/c1.jpg)
+- [CET-6](https://github.com/shen1994/README/raw/master/person/c2.jpg)
+- [江苏省计算机二级-C语言](https://github.com/shen1994/README/raw/master/person/c3.jpg)
+- [全国计算机二级-C语言](https://github.com/shen1994/README/raw/master/person/c4.jpg)
+- [全国计算机三级-网络技术](https://github.com/shen1994/README/raw/master/person/c5.jpg)
 
 ### 学术论文
 
