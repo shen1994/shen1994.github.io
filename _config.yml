@@ -25,7 +25,6 @@ description: Personal Blog!!!
 navbar-links:
   关于我: "aboutme"
   PPT:
-    - ppt introduction : "https://shen1994.github.io/ppt_examples"
     - python learning : "https://shen1994.github.io/ppt_examples/python"
     - c/c++ learning : "https://shen1994.github.io/ppt_examples/c"
     - machine learning : "https://shen1994.github.io/ppt_examples/ml"
