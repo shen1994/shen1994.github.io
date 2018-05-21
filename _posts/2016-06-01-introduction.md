@@ -1,22 +1,17 @@
 ---
 published: true
-title: Introduction
+title: 自我介绍
 layout: post
-subtitle: Reintroduction
-tags: [general, intro]
 bigimg: /img/start1.jpg
 ---
-Hi! This is Suriyadeepan from Puducherry, India. I've done this many times before. Start a new blog, introduce myself, write about what is going on currently and then forget about the blog altogether. I just need a place to log my activities. The problem is that there are too many solutions and being who I am, I tend to try a lot of different things and not stick to one platform. Well, this is me putting my roots down. Choosing one platform and sticking to it.
+您好，我是来自2019届南京信息工程大学计算与软件学院计算机科学与技术的研究生。我感兴趣的领域是微处理器应用开发，机器学习算法，图像领域深度学习框架，比如CNN和VGG16，自然语言处理领域常用RNN框架，比如LDA和SEQ2SEQ。
 
-> **Beautiful Jekyll** template seems, well, beautiful. And simple. 
+## 详细介绍请参见：
+> * [个人简介](https://shen1994.github.io/aboutme)
+> * [个人项目](https://github.com/shen1994)
 
-What will I do differently this time? To keep the blog alive, I need to log an entry at least once a week. It's not like my life is boring. Lots of interesting events happen every week. This time the focus is on the frequency of logging instead of quality of content. 
-
-**What can you expect here?**
-
-1. Transhumanism
-2. Artificial Intelligence
-3. Cognitive Architectures
-4. Mesh Networking and Community Networks
-5. Utopian Dream : Smart Solar-powered cities
-6. Peer Production
+我本科专注于传感器数据分析和控制算法，比如经典控制算法PID，以及PID的相关改进。比如在温度控制上使用的PI算法，在调速上使用的PI算法，在伺服舵机转向上使用的PD算法，以及在微分上尝试过模糊微分。在数字图像处理领域，我尝试了图像去燥，图像边缘处理，以及物体跟踪。
+我研究生阶段专注于人工智能方向，主要是机器学习的常规算法以及深度学习框架。在机器学习领域，了解线性回归，逻辑回归，SVM，PCA，决策树，adaboost等常用算法的数学理论。在深度学习方面，对于VGG16的调参有独特的见解，并且可以理解相关参数的作用，能够根据不同项目设计不同复杂度的模型。在词推荐(word2vec）和中文分词领域(bilstm_cnn_crf)有完整的项目库，效果显著。在对话领域，对于闲聊和知识问答有独特的见解，目前也还在开发中。
+对于数据的收集，可灵活使用爬虫（scrapy）获取相应的数据，数据对用户是可操作的。
+还有一些硬件项目没有发布到github上，但是也非常的有意义，比如四旋翼的姿态解析和控制原理，AI音箱的设计，C#开发的桌面表单管理系统等。
+我特别希望可以和大牛们讨论相关算法，并请教一些我目前遇到的一些问题。
